@@ -46,4 +46,4 @@ My approach merges agile software engineering with a rigorous security-first min
   * **Introduction to Software Engineering | IBM (Credential ID: `YX8LJKA82L3J`)
   * **Data Structures in C++ | University of Michigan (Credential ID: `D7H1KJ0H2O0V`)
 
-> Built with 💚 and too much coffee — Abdelrahman Ashraf 2026
+> Built with 💚 and too much coffee — Abdelrahman Ashraf 4/6/2026
