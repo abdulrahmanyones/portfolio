@@ -43,7 +43,7 @@ My approach merges agile software engineering with a rigorous security-first min
 * **Professional Certifications (Meticulously Verified):**
   * **Django Web Framework** | Meta (Credential ID: `0065F6W7DGC5`)
   * **Database Management with Java and SQL** | Amazon (Credential ID: `LIV8S4VLLBEA`)
-  * **Introduction to Software Engineering (مقدمة في هندسة البرمجيات)** | IBM (Credential ID: `YX8LJKA82L3J`)
-  * **Data Structures in C (هياكل البيانات في C)** | University of Michigan (Credential ID: `D7H1KJ0H2O0V`)
+  * **Introduction to Software Engineering | IBM (Credential ID: `YX8LJKA82L3J`)
+  * **Data Structures in C++ | University of Michigan (Credential ID: `D7H1KJ0H2O0V`)
 
 > Built with 💚 and too much coffee — Abdelrahman Ashraf 2026
