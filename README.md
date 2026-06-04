@@ -1,93 +1,49 @@
-# 🔒 Cybersecurity Command Center Portfolio
-### by Abdelrahman Ashraf
+# 👨‍💻 About Me | Abdullahrahman Ashraf
+
+I am a highly motivated Level 2 Cybersecurity & Computer Science student at King Salman International University (KSIU). With a deep passion for protective technologies, robust back-end architecture, and low-level computing, I specialize in building secure full-stack web applications and diagnosing system vulnerabilities before they can be exploited. 
+
+My approach merges agile software engineering with a rigorous security-first mindset. I thrive in configuring customized Linux environments (specifically Kali Linux via VMware/WSL) for penetration testing, automating continuous integration pipelines, and writing optimized backend systems. I am actively seeking an impactful internship where I can break things professionally and build them back securely.
 
 ---
 
-## 🚀 تشغيل المشروع (Quick Start)
+## 🛠️ Technical Arsenal
 
-```bash
-# 1. افتح الفولدر في VS Code
-cd cyber-portfolio
-
-# 2. ثبّت الـ dependencies
-npm install
-
-# 3. شغّل المشروع
-npm start
-```
-
-المشروع هيفتح على: **http://localhost:3000**
+* **Programming Languages:** Java, C++, JavaScript (ES6+), Python, x86 Assembly.
+* **Frameworks & Libraries:** Django (Full-Stack/REST API), React.js, Node.js, JavaFX.
+* **Databases & Systems:** SQL (Complex querying, relational database design).
+* **DevOps & Security Tools:** Docker containerization, Jenkins (CI/CD Pipelines, Blue Ocean), Kali Linux environment configuration.
+* **Version Control:** Git & GitHub.
 
 ---
 
-## 🎯 الـ Features الموجودة
+## 🚀 Featured Deployments & Projects
 
-| Feature | Description |
-|---------|-------------|
-| 🖥️ Boot Screen | شاشة تحميل عند فتح الموقع |
-| 🌧️ Matrix Background | خلفية Matrix متحركة |
-| 👨‍💻 Hero + Terminal | Terminal متحرك بيكتب تلقائي |
-| 📊 Live Stats | عدادات متحركة للمشاريع والـ Repos |
-| 🔐 Projects as Reports | كل مشروع = تقرير أمني بـ severity |
-| 📈 Skills Bars | Progress bars متحركة |
-| 📅 Education Timeline | Timeline تفاعلي |
-| 🏆 Certificates Cards | Cards للشهادات |
-| 💻 Interactive Terminal | Terminal حقيقي تكتب فيه أوامر |
-| 🔑 Secret Page | صفحة مخفية بـ easter eggs |
-| 📧 Contact Form | نموذج تواصل |
+### 1. Web Shield — Automated Vulnerability Scanner
+* **Core Stack:** Python, Django, Frontend Dashboard.
+* **Blueprint:** Designed and deployed a security-centric web interface that serves as an automated vulnerability scanner. It detects application flaws in real-time and visualizes potential attack vectors via a sleek, interactive dark-mode telemetry dashboard.
 
----
+### 2. Multi-Functional Menu Calculator (CSE132 Final Project)
+* **Core Stack:** x86 Assembly Language, Emu8086.
+* **Blueprint:** Built a low-level, hardware-interactive calculator utilizing custom register management and system interrupt manipulation. Features a comprehensive, menu-driven interface engineered directly at the CPU instruction layer.
 
-## 💻 Terminal Commands
+### 3. Gym Management & Attendance Database System
+* **Core Stack:** SQL, Relational Database Management.
+* **Blueprint:** Architected a robust database structure tracking multi-tier memberships, trainer rosters, and live attendance metrics. Implemented eleven complex SQL queries optimized for real-time security logging, attendance tracking, and data integrity.
 
-```
-help        - قائمة الأوامر
-whoami      - بياناتك
-projects    - قائمة المشاريع
-skills      - شجرة المهارات  
-contact     - معلومات التواصل
-resume      - تحميل CV
-ls          - استعراض الملفات
-matrix      - easter egg 🐇
-sudo access - 🔓 فتح الصفحة السرية!
-```
+### 4. Library Tracking & Management System
+* **Core Stack:** Java, JavaFX.
+* **Blueprint:** Developed a smooth, properties-bound desktop environment utilizing custom JavaFX data binding to streamline concurrent book tracking, borrower registration, and structural asset auditing.
 
 ---
 
-## ✏️ تعديل البيانات
+## 🎓 Academic Credentials & Certifications
 
-| ملف | تعدّل فيه |
-|-----|----------|
-| `src/sections/HeroSection.js` | الاسم والتخصص |
-| `src/sections/ProjectsSection.js` | المشاريع |
-| `src/sections/SkillsSection.js` | المهارات والنسب |
-| `src/sections/CertificatesSection.js` | الشهادات |
-| `src/sections/EducationSection.js` | Timeline التعليم |
-| `src/sections/ContactSection.js` | معلومات التواصل |
-| `src/sections/StatsSection.js` | الأرقام (مشاريع، repos...) |
-
----
-
-## 🛠️ Tech Stack
-
-- **React 18** — UI Framework
-- **CSS Variables** — Theming system
-- **Canvas API** — Matrix background
-- **Intersection Observer** — Scroll animations
-- **Google Fonts** — Orbitron + Share Tech Mono + Rajdhani
-
----
-
-## 🎨 الألوان
-
-```css
---green:  #00ff9d  /* اللون الأساسي */
---cyan:   #00d4ff  /* تفاصيل */
---red:    #ff3860  /* تحذيرات */
---yellow: #ffd700  /* achievements */
---orange: #ff6b35  /* critical */
-```
-
----
+* **Academic Path:** B.Sc. in Computer Science (Cybersecurity Specialization) — King Salman International University (KSIU).
+* **Core Coursework:** Object-Oriented Programming (Java/C++), Computer Architecture, Automation & DevOps Workflows, Relational Database Engineering.
+* **Professional Certifications (Meticulously Verified):**
+  * **Django Web Framework** | Meta (Credential ID: `0065F6W7DGC5`)
+  * **Database Management with Java and SQL** | Amazon (Credential ID: `LIV8S4VLLBEA`)
+  * **Introduction to Software Engineering (مقدمة في هندسة البرمجيات)** | IBM (Credential ID: `YX8LJKA82L3J`)
+  * **Data Structures in C (هياكل البيانات في C)** | University of Michigan (Credential ID: `D7H1KJ0H2O0V`)
 
 > Built with 💚 and too much coffee — Abdelrahman Ashraf 2026
