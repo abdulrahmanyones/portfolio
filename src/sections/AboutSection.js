@@ -17,7 +17,7 @@ const AboutSection = () => (
             display: 'flex', alignItems: 'center', justifyContent: 'center',
             flexDirection: 'column', gap: '16px', position: 'relative', overflow: 'hidden'
           }}>
-            <div style={{ fontSize: '6rem', filter: 'drop-shadow(0 0 20px #00ff9d)' }}>👨‍💻</div>
+           <img src="/ma.jpg" alt="Abdulrahman" style={{ width: '180px', height: '180px', borderRadius: '50%', objectFit: 'cover', filter: 'drop-shadow(0 0 20px #00ff9d)' }} />
             <div style={{ fontFamily: 'Share Tech Mono', color: '#00ff9d', fontSize: '0.8rem', letterSpacing: '3px' }}>IDENTITY CONFIRMED</div>
             {[...Array(8)].map((_, i) => (
               <div key={i} style={{ position: 'absolute', left: 0, right: 0, height: '1px', background: 'rgba(0,255,157,0.05)', top: `${i * 14}%` }} />
